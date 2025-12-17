@@ -35,7 +35,7 @@ function HomeHero() {
           </p>
 
           <p className="hero__subtitle" style={{ opacity: 0.8, marginBottom: "2rem" }}>
-            By Qaimudin Khuwaja
+            By Muhammad Abdullah
           </p>
 
           <div className="hero__buttons">
