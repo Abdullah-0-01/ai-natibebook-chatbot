@@ -13,7 +13,7 @@ const config: Config = {
     v4: true,
   },
 
-  // url: 'https://ai-native-book-seven.vercel.app',
+  url: 'https://ai-natibe-book-ma8axe43o-ranas-projects-55a7e9e4.vercel.app/',
   baseUrl: '/',
 
   organizationName: 'Muhammad Abdullah',
